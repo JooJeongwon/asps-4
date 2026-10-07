@@ -1,0 +1,77 @@
+{
+  "slides": [
+    {
+      "slide": 1,
+      "scale": 1.0,
+      "spare_height": 84.49996948242188,
+      "korean_text_check": "passed"
+    },
+    {
+      "slide": 2,
+      "scale": 1.0,
+      "spare_height": 84.49996948242188,
+      "korean_text_check": "passed"
+    },
+    {
+      "slide": 3,
+      "scale": 1.0,
+      "spare_height": 84.49996948242188,
+      "korean_text_check": "passed"
+    },
+    {
+      "slide": 4,
+      "scale": 1.0,
+      "spare_height": 84.49996948242188,
+      "korean_text_check": "passed"
+    },
+    {
+      "slide": 5,
+      "scale": 1.0,
+      "spare_height": 84.49996948242188,
+      "korean_text_check": "passed"
+    },
+    {
+      "slide": 6,
+      "scale": 1.0,
+      "spare_height": 84.49996948242188,
+      "korean_text_check": "passed"
+    },
+    {
+      "slide": 7,
+      "scale": 1.0,
+      "spare_height": 84.49996948242188,
+      "korean_text_check": "passed"
+    },
+    {
+      "slide": 8,
+      "scale": 1.0,
+      "spare_height": 84.49996948242188,
+      "korean_text_check": "passed"
+    },
+    {
+      "slide": 9,
+      "scale": 1.0,
+      "spare_height": 84.49996948242188,
+      "korean_text_check": "passed"
+    },
+    {
+      "slide": 10,
+      "scale": 1.0,
+      "spare_height": 84.49996948242188,
+      "korean_text_check": "passed"
+    },
+    {
+      "slide": 11,
+      "scale": 1.0,
+      "spare_height": 84.49996948242188,
+      "korean_text_check": "passed"
+    }
+  ],
+  "seconds": 420,
+  "speech_characters": 2506,
+  "speech_rate_assumption": "7 Korean characters/sec; rehearsal needed",
+  "pptx_reopen": "passed",
+  "pptx_layout": "PDF raster pages; text is not editable",
+  "citation_check": "source IDs and locations validated; semantic citation review still needed",
+  "status": "자동 생성 / 자료·가정 구분"
+}

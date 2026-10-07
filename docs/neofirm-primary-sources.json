@@ -1,0 +1,52 @@
+[
+  {
+    "id": "S2",
+    "title": "Index Ventures — Contracts at the Speed of Business",
+    "url": "https://www.indexventures.com/perspectives/contracts-at-the-speed-of-business-our-investment-in-crosby/",
+    "published": "2025-10-08",
+    "accessed": "2026-10-07",
+    "location": "paragraphs beginning The economy runs / AI can move / The model is / And the system",
+    "type": "investor_self_report",
+    "summary": "투자자는 Crosby가 반복 문서 분류·초안과 변호사 판단을 결합한다고 설명한다. 검토가 보통 70분, 전통 펌은 24–48시간이라는 비교는 투자자의 공개 주장이다. 계약 조건의 수용·거절과 지연 사유를 축적한다고 한다. 표본·측정방법·독립 검증이 제시되지 않아 한국 서비스의 성과 예측에 그대로 적용할 수 없다."
+  },
+  {
+    "id": "S3",
+    "title": "Crosby — How Cursor Tackled Legal Coordination",
+    "url": "https://crosby.ai/cursor",
+    "published": null,
+    "accessed": "2026-10-07",
+    "location": "ROI / The Solution / The Results",
+    "type": "vendor_self_report",
+    "summary": "회사 고객사례는 Cursor 업무에서 검토시간 약 50% 감소, 계약 처리량 30% 증가, 요청 2,100건 이상을 제시한다. 합의된 플레이북에 따라 변호사가 검토·에스컬레이션하고 고객별 맥락을 축적한다고 설명한다. 공개된 대조군·중대오류율·건당 원가가 없어 자동화율이나 공헌이익 증거로 볼 수 없다."
+  },
+  {
+    "id": "S4",
+    "title": "혜움 — 시리즈B 투자 유치",
+    "url": "https://www.heumtax.com/contents/posts/heum-series-b-funding",
+    "published": "2025-04-21",
+    "accessed": "2026-10-07",
+    "location": "opening paragraph / page footer",
+    "type": "vendor_self_report",
+    "summary": "공식 발표는 세무법인 IT 연구소에서 출발한 기술회사가 105억원 시리즈B를 유치했고 누적 투자금이 210억원이라고 한다. 사이트 하단에는 세무법인 혜움의 기장·신고와 주식회사 알프레드의 세무·회계 Cloud 서비스가 구분되어 있다. 이 사실만으로 특정 법인구조의 적법성이나 수익성을 입증하지는 않는다."
+  },
+  {
+    "id": "S5",
+    "title": "BHSN — official home / allibee solution",
+    "url": "https://www.bhsn.ai/en/home",
+    "published": null,
+    "accessed": "2026-10-07",
+    "location": "AI / Legal / allibee solution sections",
+    "type": "vendor_self_description",
+    "summary": "공식 홈페이지는 법률 전문가와 기술 인력의 협업 및 allibee의 사용자 생산성 향상을 설명한다. 이 페이지에서는 고객에 대한 법률대리 결과의 직접 책임이나 고정가 서비스 계약을 확인하지 못했다. 따라서 제품 역량과 네오펌의 결과책임은 구별해야 한다."
+  },
+  {
+    "id": "S6",
+    "title": "General Catalyst — The Future of Services",
+    "url": "https://www.generalcatalyst.com/stories/the-future-of-services",
+    "published": "2025-08-28",
+    "accessed": "2026-10-07",
+    "location": "The AI-Enabled Roll-Up Playbook / Engines of Outcome Abundance",
+    "type": "investor_thesis",
+    "summary": "투자자는 기존 서비스 회사를 인수하고 AI·운영·통합 역량으로 개선하는 전략을 설명한다. 분야 전문가, AI 기술자, M&A·운영 경험을 함께 요구한다. 투자자의 전략 및 이해관계가 담긴 자료이며, 학생팀이 초기부터 인수 모델을 채택해야 한다는 근거로 해석하지 않는다."
+  }
+]

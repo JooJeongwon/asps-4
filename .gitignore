@@ -1,0 +1,31 @@
+.env
+.env.*
+!.env.example
+*.key
+*credentials*.json
+*secret*.json
+*token*.json
+*.enc
+__pycache__/
+*.pyc
+.pytest_cache/
+runs/
+output/
+inputs/
+*.raw.jsonl
+*.raw.log
+.DS_Store
+.venv/
+.local/
+ChatGPT-2026-NeoFirm Report.pdf
+
+# Public NeoFirm deliverables (safe, generated outputs only)
+!output/
+output/*
+!output/neofirm-20261007T032143604608Z/
+output/neofirm-20261007T032143604608Z/*
+!output/neofirm-20261007T032143604608Z/neofirm-final.pptx
+!output/neofirm-20261007T032143604608Z/neofirm-final.pdf
+!output/neofirm-20261007T032143604608Z/speaker-notes.md
+!output/neofirm-20261007T032143604608Z/quality.json
+!output/neofirm-20261007T032143604608Z/contact-sheet.png
