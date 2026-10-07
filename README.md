@@ -113,7 +113,7 @@ python3 scripts/book_meeting.py \
 # preview 확인 후 같은 명령에 --confirm 추가
 ```
 
-지원 CLI는 `python3 -m pulse.cli reservations create/cancel`과 `gws calendar events list/insert/get/delete`다. GWS의 실제 계정 인증과 Discovery가 준비되지 않았으므로 현재 문서의 실행 결과는 fixture/preview 증거이며 라이브 예약 성공을 의미하지 않는다.
+지원 CLI는 `python3 -m pulse.cli reservations create/cancel`과 `gws calendar events list/insert/get/delete`다. Team A 사용자 환경에서 GCS 예약·GWS Calendar 생성·`sendUpdates=all` 초대·양쪽 재조회를 실제로 완료했고, 마스킹된 결과는 [1.2 증거](docs/1-2-booking-evidence.md)에 남겼다. 새 환경에서는 별도 GCS/GWS 인증과 테스트 대상 확인이 필요하다.
 
 ## 2. NeoFirm — Codex + NotebookLM CLI
 
@@ -163,3 +163,4 @@ sh scripts/run-neofirm.sh --prepare
 구조화된 검사 응답은 글자 수가 아니라 JSON 필드·타입으로 검증한다. 동일 프롬프트의 실제 `turn.completed` 기록과 검사 대기 후보를 복구해 재개한다. 조사 완료 후 발표 재개에는 NotebookLM 인증·source 재조회가 필요 없고, 전체 완료 후 재실행은 모델 호출 없이 기존 최종 파일을 다시 게시한다.
 
 검토용 발표 초안과 실제 라이브 실행의 구분은 [NeoFirm 증거](docs/2-neofirm-evidence.md)에 기록한다. NotebookLM 인증 누락을 성공으로 처리하지 않는다.
+
